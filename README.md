@@ -1,1 +1,40 @@
 # privacy-policy
+
+
+Privacy Policy
+
+This Privacy Policy describes how we collect, use, and manage personal information of users of our chatbot.
+
+Information Collection
+
+We collect certain personal information, such as your username and messages, when you interact with our chatbot. This information is collected in a lawful and transparent manner, with your consent, and only to the extent necessary to provide and improve the services of our chatbot.
+
+Use of Information
+
+The personal information we collect may be used to:
+
+Provide personalized responses and information based on your queries
+Improve the quality and performance of our chatbot
+Analyze chatbot usage for statistical and improvement purposes
+Information Protection
+
+We are committed to protecting the security of your personal information. We implement appropriate security measures to prevent unauthorized access, disclosure, misuse, or alteration of your personal information.
+
+Information Disclosure
+
+We only disclose your personal information to third parties in the following circumstances:
+
+When necessary to provide our services or respond to your requests
+When we are legally required to do so
+When you have provided your consent
+Information Retention
+
+We retain your personal information only for as long as necessary to fulfill the purposes for which it was collected, unless required by law to retain it for a longer period.
+
+Changes to the Privacy Policy
+
+We reserve the right to modify this Privacy Policy at any time. The changes will be effective upon posting on this page.
+
+Contact
+
+If you have any questions about this Privacy Policy, please contact us at abdelrahmene.fares@gmail.com.
